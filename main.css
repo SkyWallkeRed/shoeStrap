@@ -1,0 +1,13 @@
+.navBar {
+    width: 100%;
+    position: fixed;
+    /* text-decoration-color: powderblue; */
+    text-align: center;
+    /* margin-bottom: 10px; */
+    background-color: #333;
+    border: 2px solid black;
+    height: 50px;
+    /* position: fixed; */
+    top: 0;
+    width: 100%
+}

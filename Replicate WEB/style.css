@@ -1,0 +1,32 @@
+#logo {
+    width: 148px;
+}
+
+.navBar {
+    height: 100px;
+    width: 100%;
+    background-color: #e7e7e7;
+    position: fixed;
+    top: 0;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.bookNow {
+    text-align: center;
+    text-transform: uppercase;
+    background: 0 0;
+    color: #ff7322!important;
+    font-size: 1em;
+    font-weight: 700;
+    border: 4px solid #ff7322;
+}
+
+.firstImg {
+    background-image: url('http://city-living.london/wp-content/themes/cityliving-wp-theme/img/1-3.jpg');
+    background-size: cover;
+    height: 811px;
+    width: 1440px;
+}
